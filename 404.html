@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_to: https://abshrimp.github.io
+redirect_to: https://x-delete.github.io
 ---
